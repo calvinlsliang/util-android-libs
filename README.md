@@ -24,3 +24,13 @@ Gson converter for Retrofit2
 
 Gson (https://github.com/google/gson) (https://www.versioneye.com/java/com.google.code.gson:gson/2.7)
 >compile 'com.google.code.gson:gson:2.7'
+
+---
+```
+compile 'com.android.support:appcompat-v7:24.2.1'
+compile 'com.android.support:recyclerview-v7:24.2.1'
+compile 'com.github.bumptech.glide:glide:3.7.0'
+compile 'com.squareup.retrofit2:retrofit:2.1.0'
+compile 'com.squareup.retrofit2:converter-gson:2.0.2'
+compile 'com.google.code.gson:gson:2.7'
+```
